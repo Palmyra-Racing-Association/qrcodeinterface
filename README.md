@@ -1,10 +1,17 @@
 # qrcodeinterface
-An interface for working with QR codes.  
+A single, unified interface for working with QR codes.  
 
 This wraps a few different libraries, and eliminates the need to work with different libraries and functions.  It provides the simplicity of being able to do all of the interactions in one place.
 
+```
+npm install
+npm run example
+```
+
 ## a note about examples
-All of the examples in here have working code in the `index.js` file.
+All of the examples in here have working code in the `examples/index.js` file.
+
+They can also be run via `npm run example`.
 
 ## examples
 

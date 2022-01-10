@@ -1,10 +1,10 @@
 {
   "name": "qrtest",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A single, unified interface for working with QR codes.",
   "scripts": {
-    "test":  "jest --coverage"
+    "test":  "jest --coverage test/*",
+    "example": "node examples/index.js"
   },
   "author": "",
   "license": "ISC",

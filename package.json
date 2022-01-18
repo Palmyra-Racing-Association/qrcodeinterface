@@ -1,5 +1,5 @@
 {
-  "name": "qrtest",
+  "name": "qrcodeinterface",
   "version": "1.0.0",
   "description": "A single, unified interface for working with QR codes.",
   "scripts": {
